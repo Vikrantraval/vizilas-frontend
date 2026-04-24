@@ -1,0 +1,352 @@
+{
+  "restaurant": "Vizilas Restobaras",
+  "home": "Pagrindinis",
+  "about": "Apie mus",
+  "menu": "Meniu",
+  "contact": "Kontaktai",
+  "pages": "Puslapiai",
+  "booking": "Rezervacija",
+  "testimonial": "Atsiliepimai",
+  "book_table": "Rezervuoti staliuką",
+
+  "welcome_title": "Sveiki atvykę į Vizilas Restobaras",
+  "welcome_message": "Mėgaukitės geriausiu maistu su tradicija ir skoniu.",
+
+  "footer_rights": "Visos teisės saugomos © 2025",
+
+  "hero": {
+    "title": "Mėgaukitės mūsų skaniu maistu",
+    "description": "Sveiki atvykę į Vizilas Restobaras, kur kiekvienas patiekalas paruoštas su meile ir rūpesčiu. Nuo senovinių receptų iki modernių delikatesų – mūsų meniu sukurtas patenkinti kiekvieno skonį. Mėgaukitės malonia aplinka, draugišku aptarnavimu ir nepamirštamais valgymo momentais, jungiančiais žmones.",
+    "button": "Rezervuoti staliuką"
+  },
+
+  "aboutus": {
+    "title": "Apie mus",
+    "welcome": "Sveiki atvykę į {{restaurant}}",
+    "desc1": "„VIZILAS RESTOBARAS“ – tai šiuolaikiškas baro stiliaus restoranas, įsikūręs pietinėje Kalifornijos dalyje, Taikos pr. 81. Jame gausu gėrimų, atmosferos ir stiprios komandos, kuri iš tikrųjų pažįsta savo svečius. Pasitelkęs tarptautinę patirtį baruose ir restoranuose, „VIZILAS RESTOBARAS“ sukūrė gėrimų meniu, kuriame nesenstantys klasikiniai kokteiliai dera su moderniais firminiais elementais, kruopščiai atrinktu alaus asortimentu ir plačiu nealkoholinių gėrimų pasirinkimu, kad kiekvienas svečias rastų sau tinkamą gėrimą. Nors maistas čia vaidina antraeilį vaidmenį, trumpas, aiškus ir gerai apgalvotas užkandžių bei baro maisto meniu puikiai dera su gėrimais, išlaikant vakaro lengvumą, socialumą ir dėmesį baro patirčiai.",
+    "desc2": "„VIZILAS RESTOBARAS“ erdvė pritaikyta įvairioms progoms: gyvybinga baro zona spontaniškiems vakarėliams ir sporto transliacijoms per televizorių, jaukesni staliukai privatesniems pokalbiams ir erdvė, kurią galima pritaikyti gimtadieniams, susibūrimams po darbo ar nedideliems renginiams. Darbo dienomis tai ideali vieta užsukti po pamokų ar darbo išgerti ir lengvai užkąsti, o savaitgaliais baras virsta gyvybinga vieta, kur susitinka muzika, kokteiliai, šurmulys ir nuolatiniai klientai. „VIZILAS RESTOBARAS“ siekia tapti ta vieta Kalifornijoje, kurią vadinate „mano baru“ – kur jie pažįsta jūsų gėrimą, atpažįsta jūsų veidą ir kiekvieną vakarą turi šiek tiek kitokį, bet visada neabejotiną „VIZILAS“ charakterį."
+  },
+
+  "rese": {
+    "title": "Rezervacija",
+    "subtitle": "Rezervuokite staliuką internetu",
+    "name": "Jūsų vardas",
+    "email": "El. paštas",
+    "datetime": "Data ir laikas",
+    "people": "Žmonių skaičius",
+    "peopleOptions": {
+      "1": "1 žmogus",
+      "2": "2 žmonės",
+      "3": "3 žmonės"
+    },
+    "message": "Specialus prašymas",
+    "button": "Rezervuoti dabar"
+  },
+
+  "testimonialpage": {
+    "title": "Atsiliepimai",
+    "subtitle": "Mūsų klientai sako!!!",
+    "items": [
+      {
+        "text": "Puikus aptarnavimas ir skanus maistas! Šią vietą labai rekomenduoju.",
+        "name": "Jonas Doe",
+        "profession": "Maisto tinklaraštininkas"
+      }
+    ]
+  },
+
+  "translation": {
+    "company": "Įmonė",
+    "about": "Apie mus",
+    "contact": "Kontaktai",
+    "reservation": "Rezervacija",
+    "menu": "Meniu",
+    "contactInf": "Kontaktinė informacija",
+    "opening": "Darbo laikas",
+    "mon-Sat": "Pirmadienis - Šeštadienis",
+    "sun": "Sekmadienis"
+  },
+
+  "foodmenu": {
+    "title": "Maisto meniu",
+    "subtitle": "Populiariausi patiekalai",
+    "view": "Žiūrėti viską",
+    "tabs": [
+      {
+        "id": "tab-1",
+        "title": "UŽKANDŽIAI",
+        "icon": "fa-hamburger",
+        "subtitle": "Populiarūs",
+        "items": [
+          {
+            "img": "/img/snacks-1.jpeg",
+            "name": "Jelapeno spurgos",
+            "price": "€4.00"
+          },
+          {
+            "img": "/img/Spurgosjuo.png",
+            "name": "Spurgos juodoje tešloje",
+            "price": "€4.50"
+          },
+          {
+            "img": "/img/snacks-3.jpeg",
+            "name": "Chicken nuggets",
+            "price": "€4.80"
+          },
+          {
+            "img": "/img/snacks-4.jpeg",
+            "name": "Svogūnų žiedai",
+            "price": "€4.20"
+          },
+          {
+            "img": "/img/snacks-5.jpeg",
+            "name": "Sūrio piršteliai",
+            "price": "€4.50"
+          },
+          {
+            "img": "/img/snacks-6.jpeg",
+            "name": "Fri bulvytės",
+            "price": "€3.60"
+          },
+          {
+            "img": "/img/snacks-7.jpeg",
+            "name": "Kepta duona",
+            "price": "€3.80"
+          },
+          {
+            "img": "/img/snacks-8.jpeg",
+            "name": "Kepta duona su sūriu",
+            "price": "€4.20"
+          },
+          {
+            "img": "/img/snacks-9.jpeg",
+            "name": "Kalmarų žiedai",
+            "price": "€5.20"
+          },
+          {
+            "img": "/img/snacks-10.jpeg",
+            "name": "Vištienos filė kepsneliai",
+            "price": "€5.00"
+          },
+          {
+            "img": "/img/snacks-11.jpeg",
+            "name": "Batatų užkandis",
+            "price": "€4.80"
+          },
+          {
+            "img": "/img/snacks-12.jpeg",
+            "name": "Vištienos petukai",
+            "price": "€5.90"
+          },
+          {
+            "img": "/img/snacks-13.jpeg",
+            "name": "Alyvuogių užkandis",
+            "price": "€3.50"
+          }
+        ]
+      },
+      {
+        "id": "tab-2",
+        "title": "Padažas",
+        "icon": "fa-bottle-droplet",
+        "subtitle": "Specialus",
+        "items": [
+          {
+            "img": "/img/Sauces/sauce-1.jpeg",
+            "name": "Česnakinis",
+            "price": "€1.00"
+          },
+          {
+            "img": "/img/Sauces/sauce-2.jpeg",
+            "name": "Pikantiškas",
+            "price": "€1.00"
+          },
+          {
+            "img": "/img/Sauces/sauce-3.jpeg",
+            "name": "Pomidorų padažas",
+            "price": "€0.80"
+          },
+          {
+            "img": "/img/Sauces/sauce-4.jpeg",
+            "name": "Aštrus padažas",
+            "price": "€1.20"
+          },
+          {
+            "img": "/img/Sauces/sauce-5.jpeg",
+            "name": "Grietinės padažas",
+            "price": "€1.00"
+          }
+        ]
+      }
+    ]
+  },
+  "foodItems": {
+    "title": "Baro Meniu",
+    "subtitle": "Mėgaukitės Mūsų Gėrimų Pasirinkimu",
+    "tabs": [
+      {
+        "id": "cocktails",
+        "title": "Kokteiliai",
+        "subtitle": "Gaivinantys",
+        "icon": "fa-cocktail",
+        "items": [
+          { "name": "Mojito", "price": "€6.00", "img": "/img/cocktails/cocktail-1.jpeg" },
+          { "name": "Margarita", "price": "€8.00", "img": "/img/cocktails/cocktail-2.jpeg" },
+          { "name": "Martini", "price": "€9.00", "img": "/img/cocktails/cocktail-3.jpeg" },
+          {
+            "name": "Senasis Mados Kokteilis",
+            "price": "€10.00",
+            "img": "/img/cocktails/cocktail-4.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "beers",
+        "title": "Alus",
+        "subtitle": "Atšaldytas",
+        "icon": "fa-beer",
+        "items": [
+          {
+            "name": "Švyturys Ekstra",
+            "price": "€4.00",
+            "img": "/img/Beers/beer-1.jpeg"
+          },
+          {
+            "name": "Švyturys Baltas",
+            "price": "€4.50",
+            "img": "/img/Beers/beer-2.jpeg"
+          },
+          {
+            "name": "Švyturys Baltijos",
+            "price": "€5.00",
+            "img": "/img/Beers/beer-3.jpeg"
+          },
+          {
+            "name": "Švyturys Gintarinis",
+            "price": "€3.75",
+            "img": "/img/Beers/beer-4.jpeg"
+          },
+          {
+            "name": "Lageris",
+            "price": "€5.00",
+            "img": "/img/Beers/beer-5.jpeg"
+          },
+          { "name": "IPA", "price": "€5.00", "img": "/img/Beers/beer-6.jpeg" }
+        ]
+      },
+      {
+        "id": "wine",
+        "title": "Vynai",
+        "subtitle": "Aukščiausios Kokybės",
+        "icon": "fa-wine-glass",
+        "items": [
+          { "name": "Degtinė", "price": "€8.00", "img": "/img/Wines/wine-1.jpeg" },
+          { "name": "Viskis", "price": "€9.00", "img": "/img/Wines/wine-2.jpeg" },
+          { "name": "Romas", "price": "€8.50", "img": "/img/Wines/wine-3.jpeg" },
+          { "name": "Džinas", "price": "€8.00", "img": "/img/Wines/wine-4.jpeg" },
+          { "name": "Pinot Noir", "price": "€9.00", "img": "/img/Wines/wine-5.jpeg" },
+          { "name": "Merlot", "price": "€8.50", "img": "/img/Wines/wine-6.jpeg" },
+          {
+            "name": "Cabernet Sauvignon",
+            "price": "€9.50",
+            "img": "/img/Wines/wine-7.jpeg"
+          },
+          { "name": "Malbec", "price": "€8.75", "img": "/img/Wines/wine-8.jpeg" },
+          {
+            "name": "Syrah / Shiraz",
+            "price": "€9.00",
+            "img": "/img/Wines/wine-9.jpeg"
+          },
+          { "name": "Chardonnay", "price": "€8.50", "img": "/img/Wines/wine-10.jpeg" },
+          {
+            "name": "Sauvignon Blanc",
+            "price": "€8.00",
+            "img": "/img/Wines/wine-11.jpeg"
+          },
+          { "name": "Riesling", "price": "€8.25", "img": "/img/Wines/wine-12.jpeg" },
+          {
+            "name": "Provanso Rožinis",
+            "price": "€8.00",
+            "img": "/img/Wines/wine-13.jpeg"
+          },
+          {
+            "name": "Baltasis Zinfandel",
+            "price": "€7.50",
+            "img": "/img/Wines/wine-14.jpeg"
+          },
+          { "name": "Prosecco", "price": "€10.00", "img": "/img/Wines/wine-15.jpeg" },
+          { "name": "Šampanas", "price": "€15.00", "img": "/img/Wines/wine-16.jpeg" }
+        ]
+      },
+      {
+        "id": "non-alcoholic",
+        "title": "Nealkoholiniai Gėrimai",
+        "subtitle": "Gaivūs",
+        "icon": "fa-glass-whiskey",
+        "items": [
+          {
+            "name": "Coca-Cola",
+            "price": "€2.00",
+            "img": "/img/Non-alcoholic/item-1.jpeg"
+          },
+          { "name": "Sprite", "price": "€2.00", "img": "/img/Non-alcoholic/item-2.jpeg" },
+          {
+            "name": "Imbierinis Alus",
+            "price": "€3.00",
+            "img": "/img/Non-alcoholic/item-3.jpeg"
+          },
+          {
+            "name": "Apelsinų Sultys",
+            "price": "€3.00",
+            "img": "/img/Non-alcoholic/item-4.jpeg"
+          },
+          {
+            "name": "Ananasų Sultys",
+            "price": "€3.50",
+            "img": "/img/Non-alcoholic/item-5.jpeg"
+          },
+          {
+            "name": "Spanguolių Sultys",
+            "price": "€3.25",
+            "img": "/img/Non-alcoholic/item-6.jpeg"
+          },
+          {
+            "name": "Obuolių Sultys",
+            "price": "€3.00",
+            "img": "/img/Non-alcoholic/item-7.jpeg"
+          },
+          {
+            "name": "Limonadas",
+            "price": "€3.00",
+            "img": "/img/Non-alcoholic/item-8.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "shots",
+        "title": "Šotai",
+        "subtitle": "Stiprūs Gėrimai",
+        "icon": "fa-wine-bottle",
+        "items": [
+          {
+            "name": "Stumbras Degtinė",
+            "price": "€5.00",
+            "img": "/img/softdrink.jpg"
+          },
+          {
+            "name": "Aukščiausios Kokybės Degtinė",
+            "price": "€6.50",
+            "img": "/img/juice.jpg"
+          },
+          { "name": "Viskis", "price": "€9.00", "img": "/img/juice.jpg" },
+          {
+            "name": "Vietinis Džinas",
+            "price": "€8.50",
+            "img": "/img/juice.jpg"
+          }
+        ]
+      }
+    ]
+  }
+
+}

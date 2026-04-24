@@ -1,0 +1,296 @@
+{
+  "restaurant": "Vizilas Restobaras",
+  "home": "Home",
+  "about": "About",
+  "menu": "Menu",
+  "contact": "Contact",
+  "pages": "Pages",
+  "booking": "Booking",
+  "testimonial": "Testimonial",
+  "book_table": "Book A Table",
+
+  "welcome_title": "Welcome to Vizilas Restobaras",
+  "welcome_message": "Experience the finest dining with a blend of tradition and taste.",
+
+  "footer_rights": "All Rights Reserved © 2025",
+
+  "hero": {
+    "title": "Enjoy Our Delicious Meal",
+    "description": "Welcome to Vizilas Restobaras, where every meal is crafted with passion and served with care. From traditional recipes to modern delights, our menu is designed to satisfy every craving. Enjoy a cozy atmosphere, friendly service, and unforgettable dining experiences that bring people together.",
+    "button": "Book A Table"
+  },
+  "aboutus": {
+    "title": "About Us",
+    "welcome": "Welcome to {{restaurant}}",
+    "desc1": "VIZILAS RESTOBARAS is a contemporary bar‑style restobar located in the southern part of Klaipėda, at Taikos pr. 81, built around drinks, atmosphere, and a strong team that truly gets to know its guests.Drawing on international experience from bars and restaurants, VIZILAS RESTOBARAS has created a drink menu where timeless classic cocktails meet modern signatures, alongside a carefully selected range of beers and a wide choice of non‑alcoholic options so every guest can find the right drink. While food plays a supporting role here, a short, clear, and well‑thought‑out snack and bar food menu is designed to pair perfectly with the drinks, keeping the evening light, social, and focused on the bar experience. ",
+    "desc2": "The space at VIZILAS RESTOBARAS is arranged to fit different occasions: a lively bar zone for spontaneous nights out and sports on TV, cozier tables for more private conversations, and an area that can be adapted for birthdays, after‑work gatherings, or small events. On weekdays it is the ideal place to drop by after classes or work for a drink and a light bite, while on weekends the bar turns into a vibrant hotspot where music, cocktails, buzz, and returning regulars meet.  VIZILAS RESTOBARAS aims to become the place in Klaipėda you refer to as “my bar” – where they know your drink, recognize your face, and every night has a slightly different, but always unmistakable, VIZILAS character."
+  },
+
+  "rese": {
+    "title": "Reservation",
+    "subtitle": "Book A Table Online",
+    "name": "Your Name",
+    "email": "Your Email",
+    "datetime": "Date & Time",
+    "people": "No Of People",
+    "peopleOptions": {
+      "1": "People 1",
+      "2": "People 2",
+      "3": "People 3"
+    },
+    "message": "Special Request",
+    "button": "Book Now"
+  },
+
+  "testimonialpage": {
+    "title": "Testimonial",
+    "subtitle": "Our Clients Say!!!",
+    "items": [
+      {
+        "text": "Great service and delicious food! Highly recommend this place.",
+        "name": "John Doe",
+        "profession": "Food Blogger"
+      }
+    ]
+  },
+  "translation": {
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "reservation": "Reservation",
+    "menu": "Menu",
+    "contactInf": "Contact Info",
+    "opening": "Opening",
+    "mon-Sat": "Monday - Saturday",
+    "sun": "Sunday"
+  },
+  "foodmenu": {
+    "title": "Food Menu",
+    "subtitle": "Most Popular Items",
+    "view": "View all",
+    "tabs": [
+      {
+        "id": "tab-1",
+        "title": "Snacks",
+        "icon": "fa-hamburger",
+        "subtitle": "Popular",
+        "items": [
+          {
+            "img": "/img/snacks-1.jpeg",
+            "name": "Jalapeño Donuts ",
+            "price": "€4.00"
+          },
+          {
+            "img": "/img/Spurgosjuo.png",
+            "name": "Donuts in Black Dough",
+            "price": "€4.50"
+          },
+          {
+            "img": "/img/snacks-3.jpeg",
+            "name": "Chicken Nuggets",
+            "price": "€4.80"
+          },
+          {
+            "img": "/img/snacks-4.jpeg",
+            "name": "Onion Rings",
+            "price": "€4.20"
+          },
+          {
+            "img": "/img/snacks-5.jpeg",
+            "name": "Cheese Sticks",
+            "price": "€4.50"
+          },
+          {
+            "img": "/img/snacks-6.jpeg",
+            "name": "French Fries",
+            "price": "€3.60"
+          },
+          {
+            "img": "/img/snacks-7.jpeg",
+            "name": "Fried Bread",
+            "price": "€3.80"
+          },
+          {
+            "img": "/img/snacks-8.jpeg",
+            "name": "Fried Bread with Cheese",
+            "price": "€4.20"
+          },
+          {
+            "img": "/img/snacks-9.jpeg",
+            "name": "Calamari Rings",
+            "price": "€5.20"
+          },
+          {
+            "img": "/img/snacks-10.jpeg",
+            "name": "Chicken Fillet Bites",
+            "price": "€5.00"
+          },
+          {
+            "img": "/img/snacks-11.jpeg",
+            "name": "Sweet Potato Snack",
+            "price": "€4.80"
+          },
+          {
+            "img": "/img/snacks-12.jpeg",
+            "name": "Chicken Wings",
+            "price": "€5.90"
+          },
+          {
+            "img": "/img/snacks-13.jpeg",
+            "name": "Olive Snack",
+            "price": "€3.50"
+          }
+        ]
+      },
+      {
+        "id": "tab-2",
+        "title": "Sauce",
+        "icon": "fa-bottle-droplet",
+        "subtitle": "Special",
+        "items": [
+          {
+            "img": "/img/Sauces/sauce-1.jpeg",
+            "name": "Garlic",
+            "price": "€1.00"
+          },
+          {
+            "img": "/img/Sauces/sauce-2.jpeg",
+            "name": "Spicy",
+            "price": "€1.00"
+          },
+          {
+            "img": "/img/Sauces/sauce-3.jpeg",
+            "name": "Tomato Sauce",
+            "price": "€0.80"
+          },
+          {
+            "img": "/img/Sauces/sauce-4.jpeg",
+            "name": "Hot Sauce",
+            "price": "€1.20"
+          },
+          {
+            "img": "/img/Sauces/sauce-5.jpeg",
+            "name": "Sour Cream Sauce",
+            "price": "€1.00"
+          }
+        ]
+      }
+    ]
+  },
+  "foodItems": {
+    "title": "Bar Menu",
+    "subtitle": "Enjoy Our Drinks Selection",
+    "tabs": [
+      {
+        "id": "cocktails",
+        "title": "Cocktails",
+        "subtitle": "Refreshing",
+        "icon": "fa-cocktail",
+        "items": [
+          { "name": "Mojito", "price": "€6.00", "img": "/img/cocktails/cocktail-1.jpeg" },
+          { "name": "Margarita", "price": "€8.00", "img": "/img/cocktails/cocktail-2.jpeg" },
+          { "name": "Martini", "price": "€9.00", "img": "/img/cocktails/cocktail-3.jpeg" },
+          {
+            "name": "Old Fashioned",
+            "price": "€10.00",
+            "img": "/img/cocktails/cocktail-4.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "beers",
+        "title": "Beers",
+        "subtitle": "Chilled",
+        "icon": "fa-beer",
+        "items": [
+          {
+            "name": "Švyturys Ekstra",
+            "price": "€4.00",
+            "img": "/img/Beers/beer-1.jpeg"
+          },
+          {
+            "name": "Švyturys Baltas",
+            "price": "€4.50",
+            "img": "/img/Beers/beer-2.jpeg"
+          },
+          {
+            "name": "Švyturys Baltijos",
+            "price": "€5.00",
+            "img": "/img/Beers/beer-3.jpeg"
+          },
+          {
+            "name": "Švyturys Gintarinis",
+            "price": "€3.75",
+            "img": "/img/Beers/beer-4.jpeg"
+          },
+          {
+            "name": "Lager",
+            "price": "€5.00",
+            "img": "/img/Beers/beer-5.jpeg"
+          },
+          { "name": "IPA", "price": "€5.00", "img": "/img/Beers/beer-6.jpeg" }
+        ]
+      },
+      {
+        "id": "wine",
+        "title": "Wines",
+        "subtitle": "Premium",
+        "icon": "fa-wine-glass",
+        "items": [
+          { "name": "Vodka", "price": "€8.00", "img": "/img/Wines/wine-1.jpeg" },
+          { "name": "Whiskey", "price": "€9.00", "img": "/img/Wines/wine-2.jpeg" },
+          { "name": "Rum", "price": "€8.50", "img": "/img/Wines/wine-3.jpeg" },
+          { "name": "Gin", "price": "€8.00", "img": "/img/Wines/wine-4.jpeg" },
+          { "name": "Pinot Noir", "price": "€9.00", "img": "/img/Wines/wine-5.jpeg" },
+          { "name": "Merlot", "price": "€8.50", "img": "/img/Wines/wine-6.jpeg" },
+          { "name": "Cabernet Sauvignon", "price": "€9.50", "img": "/img/Wines/wine-7.jpeg" },
+          { "name": "Malbec", "price": "€8.75", "img": "/img/Wines/wine-8.jpeg" },
+          { "name": "Syrah/Shiraz", "price": "€9.00", "img": "/img/Wines/wine-9.jpeg" },
+          { "name": "Chardonnay", "price": "€8.50", "img": "/img/Wines/wine-10.jpeg" },
+          { "name": "Sauvignon Blanc", "price": "€8.00", "img": "/img/Wines/wine-11.jpeg" },
+          { "name": "Riesling", "price": "€8.25", "img": "/img/Wines/wine-12.jpeg" },
+          { "name": "Provence Rosé", "price": "€8.00", "img": "/img/Wines/wine-13.jpeg" },
+          { "name": "White Zinfandel", "price": "€7.50", "img": "/img/Wines/wine-14.jpeg" },
+          { "name": "Prosecco", "price": "€10.00", "img": "/img/Wines/wine-15.jpeg" },
+          { "name": "Champagne", "price": "€15.00", "img": "/img/Wines/wine-16.jpeg" }
+        ]
+      },
+      {
+        "id": "non-alcoholic",
+        "title": "Non-Alcoholic",
+        "subtitle": "Fresh",
+        "icon": "fa-glass-whiskey",
+        "items": [
+          {
+            "name": "Coca-Cola",
+            "price": "€2.00",
+            "img": "/img/Non-alcoholic/item-1.jpeg"
+          },
+          { "name": "Sprite", "price": "€2.00", "img": "/img/Non-alcoholic/item-2.jpeg" },
+          { "name": "Ginger Beer", "price": "€3.00", "img": "/img/Non-alcoholic/item-3.jpeg" },
+          { "name": "Orange Juice", "price": "€3.00", "img": "/img/Non-alcoholic/item-4.jpeg" },
+          { "name": "Pineapple Juice", "price": "€3.50", "img": "/img/Non-alcoholic/item-5.jpeg" },
+          { "name": "Cranberry Juice", "price": "€3.25", "img": "/img/Non-alcoholic/item-6.jpeg" },
+          { "name": "Apple Juice", "price": "€3.00", "img": "/img/Non-alcoholic/item-7.jpeg" },
+          { "name": "Lemonade", "price": "€3.00", "img": "/img/Non-alcoholic/item-8.jpeg" }
+        ]
+      },
+      {
+        "id": "shots",
+        "title": "Shots",
+        "subtitle": "Spirits &",
+        "icon": "fa-wine-bottle",
+        "items": [
+          {
+            "name": "Stumbras Vodka",
+            "price": "€5.00",
+            "img": "/img/softdrink.jpg"
+          },
+          { "name": "Premium Vodka", "price": "€6.50", "img": "/img/juice.jpg" },
+          { "name": "Whiskey", "price": "€9.00", "img": "/img/juice.jpg" },
+          { "name": "Local Gin", "price": "€8.50", "img": "/img/juice.jpg" }
+        ]
+      }
+    ]
+  }
+}
